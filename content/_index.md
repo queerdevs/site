@@ -8,7 +8,7 @@ description = "A group of queer, leftist software developers"
 	<p>We're a group of queer, leftist software developers making software for the queer community<br>(and whatever else we find fun :3)</p>
 </center>
 
----
+<br>
 
 ## Our projects
 
