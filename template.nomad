@@ -43,9 +43,9 @@ job "queerdevs-site" {
           "traefik.http.middlewares.queerdevs-site.redirectRegex.replacement=https://queerdevs.org",
           "traefik.http.middlewares.queerdevs-site.redirectRegex.permanent=true",
 
-          "traefik.http.routers.site.rule=Host(`queerdevs.org`) || Host(`www.queerdevs.org`)",
-          "traefik.http.routers.site.middlewares=queerdevs-site-redir",
-          "traefik.http.routers.site.tls.certResolver=letsencrypt",
+          "traefik.http.routers.queerdevs-site.rule=Host(`queerdevs.org`) || Host(`www.queerdevs.org`)",
+          "traefik.http.routers.queerdevs-site.middlewares=queerdevs-site-redir",
+          "traefik.http.routers.queerdevs-site.tls.certResolver=letsencrypt",
         ]
       }
     }
