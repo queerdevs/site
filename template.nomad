@@ -39,9 +39,9 @@ job "queerdevs-site" {
         tags = [
           "traefik.enable=true",
 
-          "traefik.http.middlewares.queerdevs-site.redirectRegex.regex=^https://www\\.queerdevs\\.org",
-          "traefik.http.middlewares.queerdevs-site.redirectRegex.replacement=https://queerdevs.org",
-          "traefik.http.middlewares.queerdevs-site.redirectRegex.permanent=true",
+          "traefik.http.middlewares.queerdevs-site-redir.redirectRegex.regex=^https://www\\.queerdevs\\.org",
+          "traefik.http.middlewares.queerdevs-site-redir.redirectRegex.replacement=https://queerdevs.org",
+          "traefik.http.middlewares.queerdevs-site-redir.redirectRegex.permanent=true",
 
           "traefik.http.routers.queerdevs-site.rule=Host(`queerdevs.org`) || Host(`www.queerdevs.org`)",
           "traefik.http.routers.queerdevs-site.middlewares=queerdevs-site-redir",
