@@ -4,7 +4,7 @@ description = "A group of queer, leftist software developers"
 
 <center>
 	<h3>Welcome To</h3>
-	<img src="/img/banner.svg" alt="QueerDevs" width="500">
+	<img src="/img/banner.svg" alt="QueerDevs" width="600">
 	<p>We're a group of queer, leftist software developers making software for the queer community<br>(and whatever else we find fun :3)</p>
 </center>
 
