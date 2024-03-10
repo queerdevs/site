@@ -1,5 +1,5 @@
 +++
-description = "A group of queer, leftist software developers"
+description = "A group of queer, leftist software developers making software for the queer community :3"
 +++
 
 <center>
