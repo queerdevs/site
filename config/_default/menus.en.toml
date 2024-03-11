@@ -37,8 +37,8 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Status"
+  url = "https://status.queerdevs.org"
   weight = 10
 
 [[footer]]
