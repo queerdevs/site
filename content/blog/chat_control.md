@@ -18,3 +18,15 @@ In short, the European Union wants to read all your chats, including those you u
 Many organizations use [Signal](https://signal.org/) for organizing. While it might have been the only sane option, that was [a bad idea from the get go](https://dessalines.github.io/essays/why_not_signal.html). Unfortunately Chat Control makes it so much worse.
 
 To find a possible solution, we need to dissect what chatrooms are usually used for in organizations.
+
+## Dissecting the use of chatrooms
+
+The first obvious use of chatrooms is, keeping your comrades and community updated. If you have organized a protest, or some new legislation caused your train station to now be surveiled using cameras, or anything else, you might want to alert your comrades and community. Fortunately this usually doesn't transmit non public data. 
+
+The other more difficult use is organizing. Obviously most organizing should be done in person, but sometimes it just is not easily doable without eating up all resources you have. Examples might be finding times where you could hold a plenary, or voting on designs. This is very confidential information and should NEVER be surveiled by anyone. Chatrooms are never perfectly safe for that, but Chat Control makes them completely unsafe.
+
+[Signal already strongly spoke out against Chat Control](https://archive.is/molDG)
+
+> Let’s be very clear, again: mandating mass scanning of private communications fundamentally undermines encryption. Full stop. Whether this happens via tampering with, for instance, an encryption algorithm’s random number generation, or by implementing a key escrow system, or by forcing communications to pass through a surveillance system before they’re encrypted,
+
+If Signal pulls out of the EU market will only tell the time. If they do an easy option would be to just sideload the app. But that has clear limitations. Comrades using an I-Phone couldn't use it, not everyone knows that, and it is not unlikely that Signal will just implement Chat Control. So regardless what Signal does, we need to be prepared. 
