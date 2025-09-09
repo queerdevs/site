@@ -30,3 +30,9 @@ The other more difficult use is organizing. Obviously most organizing should be 
 > Let’s be very clear, again: mandating mass scanning of private communications fundamentally undermines encryption. Full stop. Whether this happens via tampering with, for instance, an encryption algorithm’s random number generation, or by implementing a key escrow system, or by forcing communications to pass through a surveillance system before they’re encrypted,
 
 If Signal pulls out of the EU market will only tell the time. If they do an easy option would be to just sideload the app. But that has clear limitations. Comrades using an I-Phone couldn't use it, not everyone knows that, and it is not unlikely that Signal will just implement Chat Control. So regardless what Signal does, we need to be prepared. 
+
+## Possible Solutions
+
+**NOTE** Those are suggestions and have to be applied to your local structures.
+
+We need to switch away from Signal. Unfortunately there is no convenient replacements for Signal. The best option would be [matrix](https://matrix.org/). However matrix has a lot of issues. For one it isn't as easy to use like signal is. The other issue is, that due to the federation a lot of metadata could leak. But matrix has one thing signal does not have. You can host it yourself. To not leak any metadata, you would have to turn of federation. Obviously most smaller organizations won't be able to host a matrix server themselves, so cooperation with a nearby hackspace could be livesaving there. If you are based in germany, there is [a list of leftist hackspaces on the website of the CCC](https://www.ccc.de/en/club/erfas).
